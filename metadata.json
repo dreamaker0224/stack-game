@@ -1,0 +1,6 @@
+{
+  "name": "Macaron Sweet Tower",
+  "description": "溫暖清新馬卡龍甜點風 2D 擺鐘疊疊樂手機遊戲，具備果凍下墜切片物理、豐富連擊打擊感反饋、暫停功能與完美道具系統。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
